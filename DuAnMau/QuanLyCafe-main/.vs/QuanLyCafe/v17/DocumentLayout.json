@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vuhan\\Desktop\\DuAnMau\\QuanLyCafe-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D2C173-79C6-461C-A398-45867983C4F5}|GUI_QuanLyCafe\\GUI_QuanLyCafe.csproj|c:\\users\\vuhan\\desktop\\duanmau\\quanlycafe-main\\gui_quanlycafe\\gui_staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9D2C173-79C6-461C-A398-45867983C4F5}|GUI_QuanLyCafe\\GUI_QuanLyCafe.csproj|solutionrelative:gui_quanlycafe\\gui_staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D2C173-79C6-461C-A398-45867983C4F5}|GUI_QuanLyCafe\\GUI_QuanLyCafe.csproj|c:\\users\\vuhan\\desktop\\duanmau\\quanlycafe-main\\gui_quanlycafe\\gui_staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F9D2C173-79C6-461C-A398-45867983C4F5}|GUI_QuanLyCafe\\GUI_QuanLyCafe.csproj|solutionrelative:gui_quanlycafe\\gui_staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E013C8B-3656-4D69-8FAC-F07322652278}|DAL_QuanLyCafe\\DAL_QuanLyCafe.csproj|C:\\Users\\vuhan\\Desktop\\DuAnMau\\QuanLyCafe-main\\dal_quanlycafe\\dal_staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E013C8B-3656-4D69-8FAC-F07322652278}|DAL_QuanLyCafe\\DAL_QuanLyCafe.csproj|solutionrelative:dal_quanlycafe\\dal_staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E013C8B-3656-4D69-8FAC-F07322652278}|DAL_QuanLyCafe\\DAL_QuanLyCafe.csproj|c:\\users\\vuhan\\desktop\\duanmau\\quanlycafe-main\\dal_quanlycafe\\dbconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E013C8B-3656-4D69-8FAC-F07322652278}|DAL_QuanLyCafe\\DAL_QuanLyCafe.csproj|solutionrelative:dal_quanlycafe\\dbconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D2C173-79C6-461C-A398-45867983C4F5}|GUI_QuanLyCafe\\GUI_QuanLyCafe.csproj|C:\\Users\\vuhan\\Desktop\\DuAnMau\\QuanLyCafe-main\\gui_quanlycafe\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F9D2C173-79C6-461C-A398-45867983C4F5}|GUI_QuanLyCafe\\GUI_QuanLyCafe.csproj|solutionrelative:gui_quanlycafe\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D2C173-79C6-461C-A398-45867983C4F5}|GUI_QuanLyCafe\\GUI_QuanLyCafe.csproj|C:\\Users\\vuhan\\Desktop\\DuAnMau\\QuanLyCafe-main\\gui_quanlycafe\\gui_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9D2C173-79C6-461C-A398-45867983C4F5}|GUI_QuanLyCafe\\GUI_QuanLyCafe.csproj|solutionrelative:gui_quanlycafe\\gui_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D2C173-79C6-461C-A398-45867983C4F5}|GUI_QuanLyCafe\\GUI_QuanLyCafe.csproj|C:\\Users\\vuhan\\Desktop\\DuAnMau\\QuanLyCafe-main\\gui_quanlycafe\\gui_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F9D2C173-79C6-461C-A398-45867983C4F5}|GUI_QuanLyCafe\\GUI_QuanLyCafe.csproj|solutionrelative:gui_quanlycafe\\gui_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GUI_Staff.cs",
+              "DocumentMoniker": "C:\\Users\\vuhan\\Desktop\\DuAnMau\\QuanLyCafe-main\\GUI_QuanLyCafe\\GUI_Staff.cs",
+              "RelativeDocumentMoniker": "GUI_QuanLyCafe\\GUI_Staff.cs",
+              "ToolTip": "C:\\Users\\vuhan\\Desktop\\DuAnMau\\QuanLyCafe-main\\GUI_QuanLyCafe\\GUI_Staff.cs",
+              "RelativeToolTip": "GUI_QuanLyCafe\\GUI_Staff.cs",
+              "ViewState": "AQIAAAkCAAAAAAAAAAAgwCECAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T04:35:48.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GUI_Staff.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\vuhan\\Desktop\\DuAnMau\\QuanLyCafe-main\\GUI_QuanLyCafe\\GUI_Staff.cs",
+              "RelativeDocumentMoniker": "GUI_QuanLyCafe\\GUI_Staff.cs",
+              "ToolTip": "C:\\Users\\vuhan\\Desktop\\DuAnMau\\QuanLyCafe-main\\GUI_QuanLyCafe\\GUI_Staff.cs [Design]",
+              "RelativeToolTip": "GUI_QuanLyCafe\\GUI_Staff.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T04:35:45.555Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\vuhan\\Desktop\\DuAnMau\\QuanLyCafe-main\\GUI_QuanLyCafe\\App.config",
+              "RelativeDocumentMoniker": "GUI_QuanLyCafe\\App.config",
+              "ToolTip": "C:\\Users\\vuhan\\Desktop\\DuAnMau\\QuanLyCafe-main\\GUI_QuanLyCafe\\App.config",
+              "RelativeToolTip": "GUI_QuanLyCafe\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-24T01:17:28.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GUI_Login.cs",
+              "DocumentMoniker": "C:\\Users\\vuhan\\Desktop\\DuAnMau\\QuanLyCafe-main\\GUI_QuanLyCafe\\GUI_Login.cs",
+              "RelativeDocumentMoniker": "GUI_QuanLyCafe\\GUI_Login.cs",
+              "ToolTip": "C:\\Users\\vuhan\\Desktop\\DuAnMau\\QuanLyCafe-main\\GUI_QuanLyCafe\\GUI_Login.cs",
+              "RelativeToolTip": "GUI_QuanLyCafe\\GUI_Login.cs",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAswDIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T13:03:05.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DAL_Staff.cs",
+              "DocumentMoniker": "C:\\Users\\vuhan\\Desktop\\DuAnMau\\QuanLyCafe-main\\DAL_QuanLyCafe\\DAL_Staff.cs",
+              "RelativeDocumentMoniker": "DAL_QuanLyCafe\\DAL_Staff.cs",
+              "ToolTip": "C:\\Users\\vuhan\\Desktop\\DuAnMau\\QuanLyCafe-main\\DAL_QuanLyCafe\\DAL_Staff.cs",
+              "RelativeToolTip": "DAL_QuanLyCafe\\DAL_Staff.cs",
+              "ViewState": "AQIAAF4AAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T13:01:19.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DBConnect.cs",
+              "DocumentMoniker": "C:\\Users\\vuhan\\Desktop\\DuAnMau\\QuanLyCafe-main\\DAL_QuanLyCafe\\DBConnect.cs",
+              "RelativeDocumentMoniker": "DAL_QuanLyCafe\\DBConnect.cs",
+              "ToolTip": "C:\\Users\\vuhan\\Desktop\\DuAnMau\\QuanLyCafe-main\\DAL_QuanLyCafe\\DBConnect.cs",
+              "RelativeToolTip": "DAL_QuanLyCafe\\DBConnect.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T12:50:27.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GUI_Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\vuhan\\Desktop\\DuAnMau\\QuanLyCafe-main\\GUI_QuanLyCafe\\GUI_Login.cs",
+              "RelativeDocumentMoniker": "GUI_QuanLyCafe\\GUI_Login.cs",
+              "ToolTip": "C:\\Users\\vuhan\\Desktop\\DuAnMau\\QuanLyCafe-main\\GUI_QuanLyCafe\\GUI_Login.cs [Design]",
+              "RelativeToolTip": "GUI_QuanLyCafe\\GUI_Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T12:44:43.626Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

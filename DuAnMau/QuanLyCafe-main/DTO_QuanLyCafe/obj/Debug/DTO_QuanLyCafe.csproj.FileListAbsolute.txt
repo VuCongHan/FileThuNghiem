@@ -1,0 +1,12 @@
+E:\Csharp\DuAn1\QuanLyCafe\DTO_QuanLyCafe\bin\Debug\DTO_QuanLyCafe.dll
+E:\Csharp\DuAn1\QuanLyCafe\DTO_QuanLyCafe\bin\Debug\DTO_QuanLyCafe.pdb
+E:\Csharp\DuAn1\QuanLyCafe\DTO_QuanLyCafe\obj\Debug\DTO_QuanLyCafe.csproj.AssemblyReference.cache
+E:\Csharp\DuAn1\QuanLyCafe\DTO_QuanLyCafe\obj\Debug\DTO_QuanLyCafe.csproj.CoreCompileInputs.cache
+E:\Csharp\DuAn1\QuanLyCafe\DTO_QuanLyCafe\obj\Debug\DTO_QuanLyCafe.dll
+E:\Csharp\DuAn1\QuanLyCafe\DTO_QuanLyCafe\obj\Debug\DTO_QuanLyCafe.pdb
+C:\Users\vuhan\Desktop\QuanLyCafe-main\DTO_QuanLyCafe\bin\Debug\DTO_QuanLyCafe.dll
+C:\Users\vuhan\Desktop\QuanLyCafe-main\DTO_QuanLyCafe\bin\Debug\DTO_QuanLyCafe.pdb
+C:\Users\vuhan\Desktop\QuanLyCafe-main\DTO_QuanLyCafe\obj\Debug\DTO_QuanLyCafe.csproj.AssemblyReference.cache
+C:\Users\vuhan\Desktop\QuanLyCafe-main\DTO_QuanLyCafe\obj\Debug\DTO_QuanLyCafe.csproj.CoreCompileInputs.cache
+C:\Users\vuhan\Desktop\QuanLyCafe-main\DTO_QuanLyCafe\obj\Debug\DTO_QuanLyCafe.dll
+C:\Users\vuhan\Desktop\QuanLyCafe-main\DTO_QuanLyCafe\obj\Debug\DTO_QuanLyCafe.pdb

@@ -1,0 +1,9 @@
+C:\Users\vuhan\Desktop\DuAnMau\PR_QLBanHang\DAL\bin\Debug\DAL.dll
+C:\Users\vuhan\Desktop\DuAnMau\PR_QLBanHang\DAL\bin\Debug\DAL.pdb
+C:\Users\vuhan\Desktop\DuAnMau\PR_QLBanHang\DAL\bin\Debug\DTO.dll
+C:\Users\vuhan\Desktop\DuAnMau\PR_QLBanHang\DAL\bin\Debug\DTO.pdb
+C:\Users\vuhan\Desktop\DuAnMau\PR_QLBanHang\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\vuhan\Desktop\DuAnMau\PR_QLBanHang\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\vuhan\Desktop\DuAnMau\PR_QLBanHang\DAL\obj\Debug\DAL.csproj.Up2Date
+C:\Users\vuhan\Desktop\DuAnMau\PR_QLBanHang\DAL\obj\Debug\DAL.dll
+C:\Users\vuhan\Desktop\DuAnMau\PR_QLBanHang\DAL\obj\Debug\DAL.pdb

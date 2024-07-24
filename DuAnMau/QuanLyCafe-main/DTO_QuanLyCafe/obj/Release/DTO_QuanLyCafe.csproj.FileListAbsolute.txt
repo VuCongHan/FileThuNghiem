@@ -1,0 +1,6 @@
+E:\Csharp\DuAn1\QuanLyCafe\DTO_QuanLyCafe\bin\Release\DTO_QuanLyCafe.dll
+E:\Csharp\DuAn1\QuanLyCafe\DTO_QuanLyCafe\bin\Release\DTO_QuanLyCafe.pdb
+E:\Csharp\DuAn1\QuanLyCafe\DTO_QuanLyCafe\obj\Release\DTO_QuanLyCafe.csproj.AssemblyReference.cache
+E:\Csharp\DuAn1\QuanLyCafe\DTO_QuanLyCafe\obj\Release\DTO_QuanLyCafe.csproj.CoreCompileInputs.cache
+E:\Csharp\DuAn1\QuanLyCafe\DTO_QuanLyCafe\obj\Release\DTO_QuanLyCafe.dll
+E:\Csharp\DuAn1\QuanLyCafe\DTO_QuanLyCafe\obj\Release\DTO_QuanLyCafe.pdb

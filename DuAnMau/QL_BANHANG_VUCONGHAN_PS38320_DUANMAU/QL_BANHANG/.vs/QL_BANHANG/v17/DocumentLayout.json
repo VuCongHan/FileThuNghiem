@@ -1,0 +1,334 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vuhan\\Desktop\\DuAnMau\\QL_BANHANG_VUCONGHAN_PS38320_DUANMAU\\QL_BANHANG\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18FEBDB7-2505-4AA2-9057-68EB39E25B40}|GUI\\GUI.csproj|C:\\Users\\vuhan\\Desktop\\DuAnMau\\QL_BANHANG_VUCONGHAN_PS38320_DUANMAU\\QL_BANHANG\\gui\\ql_sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18FEBDB7-2505-4AA2-9057-68EB39E25B40}|GUI\\GUI.csproj|solutionrelative:gui\\ql_sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{449A0629-2DA5-43DC-B0D6-22A5E782BDB8}|DAL\\DAL.csproj|c:\\users\\vuhan\\desktop\\duanmau\\ql_banhang_vuconghan_ps38320_duanmau\\ql_banhang\\dal\\databaseaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{449A0629-2DA5-43DC-B0D6-22A5E782BDB8}|DAL\\DAL.csproj|solutionrelative:dal\\databaseaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18FEBDB7-2505-4AA2-9057-68EB39E25B40}|GUI\\GUI.csproj|C:\\Users\\vuhan\\Desktop\\DuAnMau\\QL_BANHANG_VUCONGHAN_PS38320_DUANMAU\\QL_BANHANG\\gui\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{18FEBDB7-2505-4AA2-9057-68EB39E25B40}|GUI\\GUI.csproj|solutionrelative:gui\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18FEBDB7-2505-4AA2-9057-68EB39E25B40}|GUI\\GUI.csproj|C:\\Users\\vuhan\\Desktop\\DuAnMau\\QL_BANHANG_VUCONGHAN_PS38320_DUANMAU\\QL_BANHANG\\gui\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18FEBDB7-2505-4AA2-9057-68EB39E25B40}|GUI\\GUI.csproj|solutionrelative:gui\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18FEBDB7-2505-4AA2-9057-68EB39E25B40}|GUI\\GUI.csproj|C:\\Users\\vuhan\\Desktop\\DuAnMau\\QL_BANHANG_VUCONGHAN_PS38320_DUANMAU\\QL_BANHANG\\gui\\trangchu1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18FEBDB7-2505-4AA2-9057-68EB39E25B40}|GUI\\GUI.csproj|solutionrelative:gui\\trangchu1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18FEBDB7-2505-4AA2-9057-68EB39E25B40}|GUI\\GUI.csproj|C:\\Users\\vuhan\\Desktop\\DuAnMau\\QL_BANHANG_VUCONGHAN_PS38320_DUANMAU\\QL_BANHANG\\gui\\trangchu1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{18FEBDB7-2505-4AA2-9057-68EB39E25B40}|GUI\\GUI.csproj|solutionrelative:gui\\trangchu1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18FEBDB7-2505-4AA2-9057-68EB39E25B40}|GUI\\GUI.csproj|C:\\Users\\vuhan\\Desktop\\DuAnMau\\QL_BANHANG_VUCONGHAN_PS38320_DUANMAU\\QL_BANHANG\\gui\\ql_sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{18FEBDB7-2505-4AA2-9057-68EB39E25B40}|GUI\\GUI.csproj|solutionrelative:gui\\ql_sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18FEBDB7-2505-4AA2-9057-68EB39E25B40}|GUI\\GUI.csproj|C:\\Users\\vuhan\\Desktop\\DuAnMau\\QL_BANHANG_VUCONGHAN_PS38320_DUANMAU\\QL_BANHANG\\gui\\ql_nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18FEBDB7-2505-4AA2-9057-68EB39E25B40}|GUI\\GUI.csproj|solutionrelative:gui\\ql_nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18FEBDB7-2505-4AA2-9057-68EB39E25B40}|GUI\\GUI.csproj|C:\\Users\\vuhan\\Desktop\\DuAnMau\\QL_BANHANG_VUCONGHAN_PS38320_DUANMAU\\QL_BANHANG\\gui\\ql_khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{18FEBDB7-2505-4AA2-9057-68EB39E25B40}|GUI\\GUI.csproj|solutionrelative:gui\\ql_khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18FEBDB7-2505-4AA2-9057-68EB39E25B40}|GUI\\GUI.csproj|C:\\Users\\vuhan\\Desktop\\DuAnMau\\QL_BANHANG_VUCONGHAN_PS38320_DUANMAU\\QL_BANHANG\\gui\\ql_khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18FEBDB7-2505-4AA2-9057-68EB39E25B40}|GUI\\GUI.csproj|solutionrelative:gui\\ql_khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{449A0629-2DA5-43DC-B0D6-22A5E782BDB8}|DAL\\DAL.csproj|C:\\Users\\vuhan\\Desktop\\DuAnMau\\QL_BANHANG_VUCONGHAN_PS38320_DUANMAU\\QL_BANHANG\\dal\\taikhoanaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{449A0629-2DA5-43DC-B0D6-22A5E782BDB8}|DAL\\DAL.csproj|solutionrelative:dal\\taikhoanaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18FEBDB7-2505-4AA2-9057-68EB39E25B40}|GUI\\GUI.csproj|C:\\Users\\vuhan\\Desktop\\DuAnMau\\QL_BANHANG_VUCONGHAN_PS38320_DUANMAU\\QL_BANHANG\\gui\\ql_nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{18FEBDB7-2505-4AA2-9057-68EB39E25B40}|GUI\\GUI.csproj|solutionrelative:gui\\ql_nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A0C61DA-E3F6-497F-B94C-1EEBE590ADAD}|DTO\\BLL.csproj|C:\\Users\\vuhan\\Desktop\\DuAnMau\\QL_BANHANG_VUCONGHAN_PS38320_DUANMAU\\QL_BANHANG\\dto\\taikhoanbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A0C61DA-E3F6-497F-B94C-1EEBE590ADAD}|DTO\\BLL.csproj|solutionrelative:dto\\taikhoanbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18FEBDB7-2505-4AA2-9057-68EB39E25B40}|GUI\\GUI.csproj|C:\\Users\\vuhan\\Desktop\\DuAnMau\\QL_BANHANG_VUCONGHAN_PS38320_DUANMAU\\QL_BANHANG\\gui\\thongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18FEBDB7-2505-4AA2-9057-68EB39E25B40}|GUI\\GUI.csproj|solutionrelative:gui\\thongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18FEBDB7-2505-4AA2-9057-68EB39E25B40}|GUI\\GUI.csproj|C:\\Users\\vuhan\\Desktop\\DuAnMau\\QL_BANHANG_VUCONGHAN_PS38320_DUANMAU\\QL_BANHANG\\gui\\\u0111oimatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18FEBDB7-2505-4AA2-9057-68EB39E25B40}|GUI\\GUI.csproj|solutionrelative:gui\\\u0111oimatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18FEBDB7-2505-4AA2-9057-68EB39E25B40}|GUI\\GUI.csproj|C:\\Users\\vuhan\\Desktop\\DuAnMau\\QL_BANHANG_VUCONGHAN_PS38320_DUANMAU\\QL_BANHANG\\gui\\\u0111oimatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{18FEBDB7-2505-4AA2-9057-68EB39E25B40}|GUI\\GUI.csproj|solutionrelative:gui\\\u0111oimatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18FEBDB7-2505-4AA2-9057-68EB39E25B40}|GUI\\GUI.csproj|C:\\Users\\vuhan\\Desktop\\DuAnMau\\QL_BANHANG_VUCONGHAN_PS38320_DUANMAU\\QL_BANHANG\\gui\\trangchu1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18FEBDB7-2505-4AA2-9057-68EB39E25B40}|GUI\\GUI.csproj|solutionrelative:gui\\trangchu1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18FEBDB7-2505-4AA2-9057-68EB39E25B40}|GUI\\GUI.csproj|C:\\Users\\vuhan\\Desktop\\DuAnMau\\QL_BANHANG_VUCONGHAN_PS38320_DUANMAU\\QL_BANHANG\\gui\\thongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{18FEBDB7-2505-4AA2-9057-68EB39E25B40}|GUI\\GUI.csproj|solutionrelative:gui\\thongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18FEBDB7-2505-4AA2-9057-68EB39E25B40}|GUI\\GUI.csproj|C:\\Users\\vuhan\\Desktop\\DuAnMau\\QL_BANHANG_VUCONGHAN_PS38320_DUANMAU\\QL_BANHANG\\gui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18FEBDB7-2505-4AA2-9057-68EB39E25B40}|GUI\\GUI.csproj|solutionrelative:gui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DangNhap.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\vuhan\\Desktop\\DuAnMau\\QL_BANHANG_VUCONGHAN_PS38320_DUANMAU\\QL_BANHANG\\GUI\\DangNhap.cs",
+              "RelativeDocumentMoniker": "GUI\\DangNhap.cs",
+              "ToolTip": "C:\\Users\\vuhan\\Desktop\\DuAnMau\\QL_BANHANG_VUCONGHAN_PS38320_DUANMAU\\QL_BANHANG\\GUI\\DangNhap.cs [Design]",
+              "RelativeToolTip": "GUI\\DangNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T11:25:17.762Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DangNhap.cs",
+              "DocumentMoniker": "C:\\Users\\vuhan\\Desktop\\DuAnMau\\QL_BANHANG_VUCONGHAN_PS38320_DUANMAU\\QL_BANHANG\\GUI\\DangNhap.cs",
+              "RelativeDocumentMoniker": "GUI\\DangNhap.cs",
+              "ToolTip": "C:\\Users\\vuhan\\Desktop\\DuAnMau\\QL_BANHANG_VUCONGHAN_PS38320_DUANMAU\\QL_BANHANG\\GUI\\DangNhap.cs",
+              "RelativeToolTip": "GUI\\DangNhap.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAmwC0AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T12:39:46.126Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TrangChu1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\vuhan\\Desktop\\DuAnMau\\QL_BANHANG_VUCONGHAN_PS38320_DUANMAU\\QL_BANHANG\\GUI\\TrangChu1.cs",
+              "RelativeDocumentMoniker": "GUI\\TrangChu1.cs",
+              "ToolTip": "C:\\Users\\vuhan\\Desktop\\DuAnMau\\QL_BANHANG_VUCONGHAN_PS38320_DUANMAU\\QL_BANHANG\\GUI\\TrangChu1.cs [Design]",
+              "RelativeToolTip": "GUI\\TrangChu1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T02:18:32.176Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TrangChu1.cs",
+              "DocumentMoniker": "C:\\Users\\vuhan\\Desktop\\DuAnMau\\QL_BANHANG_VUCONGHAN_PS38320_DUANMAU\\QL_BANHANG\\GUI\\TrangChu1.cs",
+              "RelativeDocumentMoniker": "GUI\\TrangChu1.cs",
+              "ToolTip": "C:\\Users\\vuhan\\Desktop\\DuAnMau\\QL_BANHANG_VUCONGHAN_PS38320_DUANMAU\\QL_BANHANG\\GUI\\TrangChu1.cs",
+              "RelativeToolTip": "GUI\\TrangChu1.cs",
+              "ViewState": "AQIAAGsAAAAAAAAAAIA0wIcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T02:32:29.627Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "QL_NHANVIEN.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\vuhan\\Desktop\\DuAnMau\\QL_BANHANG_VUCONGHAN_PS38320_DUANMAU\\QL_BANHANG\\GUI\\QL_NHANVIEN.cs",
+              "RelativeDocumentMoniker": "GUI\\QL_NHANVIEN.cs",
+              "ToolTip": "C:\\Users\\vuhan\\Desktop\\DuAnMau\\QL_BANHANG_VUCONGHAN_PS38320_DUANMAU\\QL_BANHANG\\GUI\\QL_NHANVIEN.cs [Design]",
+              "RelativeToolTip": "GUI\\QL_NHANVIEN.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T17:00:33.329Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "QL_NHANVIEN.cs",
+              "DocumentMoniker": "C:\\Users\\vuhan\\Desktop\\DuAnMau\\QL_BANHANG_VUCONGHAN_PS38320_DUANMAU\\QL_BANHANG\\GUI\\QL_NHANVIEN.cs",
+              "RelativeDocumentMoniker": "GUI\\QL_NHANVIEN.cs",
+              "ToolTip": "C:\\Users\\vuhan\\Desktop\\DuAnMau\\QL_BANHANG_VUCONGHAN_PS38320_DUANMAU\\QL_BANHANG\\GUI\\QL_NHANVIEN.cs",
+              "RelativeToolTip": "GUI\\QL_NHANVIEN.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAUwCwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T17:23:47.451Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "QL_SANPHAM.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\vuhan\\Desktop\\DuAnMau\\QL_BANHANG_VUCONGHAN_PS38320_DUANMAU\\QL_BANHANG\\GUI\\QL_SANPHAM.cs",
+              "RelativeDocumentMoniker": "GUI\\QL_SANPHAM.cs",
+              "ToolTip": "C:\\Users\\vuhan\\Desktop\\DuAnMau\\QL_BANHANG_VUCONGHAN_PS38320_DUANMAU\\QL_BANHANG\\GUI\\QL_SANPHAM.cs [Design]",
+              "RelativeToolTip": "GUI\\QL_SANPHAM.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T17:26:05.392Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QL_SANPHAM.cs",
+              "DocumentMoniker": "C:\\Users\\vuhan\\Desktop\\DuAnMau\\QL_BANHANG_VUCONGHAN_PS38320_DUANMAU\\QL_BANHANG\\GUI\\QL_SANPHAM.cs",
+              "RelativeDocumentMoniker": "GUI\\QL_SANPHAM.cs",
+              "ToolTip": "C:\\Users\\vuhan\\Desktop\\DuAnMau\\QL_BANHANG_VUCONGHAN_PS38320_DUANMAU\\QL_BANHANG\\GUI\\QL_SANPHAM.cs",
+              "RelativeToolTip": "GUI\\QL_SANPHAM.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAkwDAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T17:26:10.712Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "QL_KHACHHANG.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\vuhan\\Desktop\\DuAnMau\\QL_BANHANG_VUCONGHAN_PS38320_DUANMAU\\QL_BANHANG\\GUI\\QL_KHACHHANG.cs",
+              "RelativeDocumentMoniker": "GUI\\QL_KHACHHANG.cs",
+              "ToolTip": "C:\\Users\\vuhan\\Desktop\\DuAnMau\\QL_BANHANG_VUCONGHAN_PS38320_DUANMAU\\QL_BANHANG\\GUI\\QL_KHACHHANG.cs [Design]",
+              "RelativeToolTip": "GUI\\QL_KHACHHANG.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T17:26:28.891Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "QL_KHACHHANG.cs",
+              "DocumentMoniker": "C:\\Users\\vuhan\\Desktop\\DuAnMau\\QL_BANHANG_VUCONGHAN_PS38320_DUANMAU\\QL_BANHANG\\GUI\\QL_KHACHHANG.cs",
+              "RelativeDocumentMoniker": "GUI\\QL_KHACHHANG.cs",
+              "ToolTip": "C:\\Users\\vuhan\\Desktop\\DuAnMau\\QL_BANHANG_VUCONGHAN_PS38320_DUANMAU\\QL_BANHANG\\GUI\\QL_KHACHHANG.cs",
+              "RelativeToolTip": "GUI\\QL_KHACHHANG.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAlwCcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T17:26:32.666Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "THONGKE.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\vuhan\\Desktop\\DuAnMau\\QL_BANHANG_VUCONGHAN_PS38320_DUANMAU\\QL_BANHANG\\GUI\\THONGKE.cs",
+              "RelativeDocumentMoniker": "GUI\\THONGKE.cs",
+              "ToolTip": "C:\\Users\\vuhan\\Desktop\\DuAnMau\\QL_BANHANG_VUCONGHAN_PS38320_DUANMAU\\QL_BANHANG\\GUI\\THONGKE.cs [Design]",
+              "RelativeToolTip": "GUI\\THONGKE.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T17:36:28.154Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "THONGKE.cs",
+              "DocumentMoniker": "C:\\Users\\vuhan\\Desktop\\DuAnMau\\QL_BANHANG_VUCONGHAN_PS38320_DUANMAU\\QL_BANHANG\\GUI\\THONGKE.cs",
+              "RelativeDocumentMoniker": "GUI\\THONGKE.cs",
+              "ToolTip": "C:\\Users\\vuhan\\Desktop\\DuAnMau\\QL_BANHANG_VUCONGHAN_PS38320_DUANMAU\\QL_BANHANG\\GUI\\THONGKE.cs",
+              "RelativeToolTip": "GUI\\THONGKE.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBkAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T17:36:30.33Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "\u0110oiMatKhau.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\vuhan\\Desktop\\DuAnMau\\QL_BANHANG_VUCONGHAN_PS38320_DUANMAU\\QL_BANHANG\\GUI\\\u0110oiMatKhau.cs",
+              "RelativeDocumentMoniker": "GUI\\\u0110oiMatKhau.cs",
+              "ToolTip": "C:\\Users\\vuhan\\Desktop\\DuAnMau\\QL_BANHANG_VUCONGHAN_PS38320_DUANMAU\\QL_BANHANG\\GUI\\\u0110oiMatKhau.cs [Design]",
+              "RelativeToolTip": "GUI\\\u0110oiMatKhau.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T13:19:09.88Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "\u0110oiMatKhau.cs",
+              "DocumentMoniker": "C:\\Users\\vuhan\\Desktop\\DuAnMau\\QL_BANHANG_VUCONGHAN_PS38320_DUANMAU\\QL_BANHANG\\GUI\\\u0110oiMatKhau.cs",
+              "RelativeDocumentMoniker": "GUI\\\u0110oiMatKhau.cs",
+              "ToolTip": "C:\\Users\\vuhan\\Desktop\\DuAnMau\\QL_BANHANG_VUCONGHAN_PS38320_DUANMAU\\QL_BANHANG\\GUI\\\u0110oiMatKhau.cs",
+              "RelativeToolTip": "GUI\\\u0110oiMatKhau.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAlwBQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T13:36:10.073Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TrangChu1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\vuhan\\Desktop\\DuAnMau\\QL_BANHANG_VUCONGHAN_PS38320_DUANMAU\\QL_BANHANG\\GUI\\TrangChu1.Designer.cs",
+              "RelativeDocumentMoniker": "GUI\\TrangChu1.Designer.cs",
+              "ToolTip": "C:\\Users\\vuhan\\Desktop\\DuAnMau\\QL_BANHANG_VUCONGHAN_PS38320_DUANMAU\\QL_BANHANG\\GUI\\TrangChu1.Designer.cs",
+              "RelativeToolTip": "GUI\\TrangChu1.Designer.cs",
+              "ViewState": "AQIAAIcAAAAAAAAAAIAwwJgAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T02:57:48.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vuhan\\Desktop\\DuAnMau\\QL_BANHANG_VUCONGHAN_PS38320_DUANMAU\\QL_BANHANG\\GUI\\Program.cs",
+              "RelativeDocumentMoniker": "GUI\\Program.cs",
+              "ToolTip": "C:\\Users\\vuhan\\Desktop\\DuAnMau\\QL_BANHANG_VUCONGHAN_PS38320_DUANMAU\\QL_BANHANG\\GUI\\Program.cs",
+              "RelativeToolTip": "GUI\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAUwBYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T16:14:51.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TaiKhoanBLL.cs",
+              "DocumentMoniker": "C:\\Users\\vuhan\\Desktop\\DuAnMau\\QL_BANHANG_VUCONGHAN_PS38320_DUANMAU\\QL_BANHANG\\DTO\\TaiKhoanBLL.cs",
+              "RelativeDocumentMoniker": "DTO\\TaiKhoanBLL.cs",
+              "ToolTip": "C:\\Users\\vuhan\\Desktop\\DuAnMau\\QL_BANHANG_VUCONGHAN_PS38320_DUANMAU\\QL_BANHANG\\DTO\\TaiKhoanBLL.cs",
+              "RelativeToolTip": "DTO\\TaiKhoanBLL.cs",
+              "ViewState": "AQIAAKUAAAAAAAAAAAAtwMEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T15:56:20.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TaiKhoanAccess.cs",
+              "DocumentMoniker": "C:\\Users\\vuhan\\Desktop\\DuAnMau\\QL_BANHANG_VUCONGHAN_PS38320_DUANMAU\\QL_BANHANG\\DAL\\TaiKhoanAccess.cs",
+              "RelativeDocumentMoniker": "DAL\\TaiKhoanAccess.cs",
+              "ToolTip": "C:\\Users\\vuhan\\Desktop\\DuAnMau\\QL_BANHANG_VUCONGHAN_PS38320_DUANMAU\\QL_BANHANG\\DAL\\TaiKhoanAccess.cs",
+              "RelativeToolTip": "DAL\\TaiKhoanAccess.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAA/wIcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T15:35:32.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DatabaseAccess.cs",
+              "DocumentMoniker": "C:\\Users\\vuhan\\Desktop\\DuAnMau\\QL_BANHANG_VUCONGHAN_PS38320_DUANMAU\\QL_BANHANG\\DAL\\DatabaseAccess.cs",
+              "RelativeDocumentMoniker": "DAL\\DatabaseAccess.cs",
+              "ToolTip": "C:\\Users\\vuhan\\Desktop\\DuAnMau\\QL_BANHANG_VUCONGHAN_PS38320_DUANMAU\\QL_BANHANG\\DAL\\DatabaseAccess.cs",
+              "RelativeToolTip": "DAL\\DatabaseAccess.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T15:22:09.588Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

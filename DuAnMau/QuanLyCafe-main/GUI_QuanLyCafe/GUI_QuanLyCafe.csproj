@@ -1,0 +1,430 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{F9D2C173-79C6-461C-A398-45867983C4F5}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>GUI_QuanLyCafe</RootNamespace>
+    <AssemblyName>GUI_QuanLyCafe</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>QuanLyBanHang.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AxShockwaveFlashObjects, Version=1.0.0.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="Guna.UI2">
+      <HintPath>D:\Download\Guna + File Crack\Guna.UI2.dll</HintPath>
+    </Reference>
+    <Reference Include="KAutoHelper">
+      <HintPath>D:\Download\KAutoHelper.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="GUI_ChangePassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI_ChangePassword.Designer.cs">
+      <DependentUpon>GUI_ChangePassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI_Confirm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI_Confirm.Designer.cs">
+      <DependentUpon>GUI_Confirm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI_DetailStatistic.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI_DetailStatistic.Designer.cs">
+      <DependentUpon>GUI_DetailStatistic.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI_ListTable.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI_ListTable.Designer.cs">
+      <DependentUpon>GUI_ListTable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI_ForgotPassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI_ForgotPassword.Designer.cs">
+      <DependentUpon>GUI_ForgotPassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI_Loading.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI_Loading.Designer.cs">
+      <DependentUpon>GUI_Loading.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI_Log.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI_Log.Designer.cs">
+      <DependentUpon>GUI_Log.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI_Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI_Login.Designer.cs">
+      <DependentUpon>GUI_Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI_MenuManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI_MenuManager.Designer.cs">
+      <DependentUpon>GUI_MenuManager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI_Detail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI_Detail.Designer.cs">
+      <DependentUpon>GUI_Detail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI_Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI_Menu.Designer.cs">
+      <DependentUpon>GUI_Menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI_Material.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI_Material.Designer.cs">
+      <DependentUpon>GUI_Material.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI_Note.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI_Note.Designer.cs">
+      <DependentUpon>GUI_Note.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI_Order.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI_Order.Designer.cs">
+      <DependentUpon>GUI_Order.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI_Staff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI_Staff.Designer.cs">
+      <DependentUpon>GUI_Staff.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI_Statistic.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI_Statistic.Designer.cs">
+      <DependentUpon>GUI_Statistic.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI_Voucher.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI_Voucher.Designer.cs">
+      <DependentUpon>GUI_Voucher.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="GUI_Payment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI_Payment.Designer.cs">
+      <DependentUpon>GUI_Payment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI_Report.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI_Report.Designer.cs">
+      <DependentUpon>GUI_Report.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Statistic.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Statistic.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <EmbeddedResource Include="GUI_ChangePassword.resx">
+      <DependentUpon>GUI_ChangePassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI_Confirm.resx">
+      <DependentUpon>GUI_Confirm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI_DetailStatistic.resx">
+      <DependentUpon>GUI_DetailStatistic.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI_ListTable.resx">
+      <DependentUpon>GUI_ListTable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI_ForgotPassword.resx">
+      <DependentUpon>GUI_ForgotPassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI_Loading.resx">
+      <DependentUpon>GUI_Loading.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI_Log.resx">
+      <DependentUpon>GUI_Log.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI_Login.resx">
+      <DependentUpon>GUI_Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI_MenuManager.resx">
+      <DependentUpon>GUI_MenuManager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI_Detail.resx">
+      <DependentUpon>GUI_Detail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI_Menu.resx">
+      <DependentUpon>GUI_Menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI_Material.resx">
+      <DependentUpon>GUI_Material.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI_Note.resx">
+      <DependentUpon>GUI_Note.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI_Order.resx">
+      <DependentUpon>GUI_Order.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI_Payment.resx">
+      <DependentUpon>GUI_Payment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI_Staff.resx">
+      <DependentUpon>GUI_Staff.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI_Statistic.resx">
+      <DependentUpon>GUI_Statistic.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI_Voucher.resx">
+      <DependentUpon>GUI_Voucher.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI_Report.resx">
+      <DependentUpon>GUI_Report.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Statistic.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Statistic.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="..\.editorconfig">
+      <Link>.editorconfig</Link>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BUS_QuanLyCafe\BUS_QuanLyCafe.csproj">
+      <Project>{ac24d297-4d4d-4653-8bb5-f850a62ce4b2}</Project>
+      <Name>BUS_QuanLyCafe</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DTO_QuanLyCafe\DTO_QuanLyCafe.csproj">
+      <Project>{3dcccd80-3a50-42d9-99e8-3be8b7f71f1d}</Project>
+      <Name>DTO_QuanLyCafe</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\QuanLyBanHang.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Image\Cafe\Cappucino.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Image\Cafe\Espresso.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Image\Cafe\Late.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Image\Cafe\BacXiuDa.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Image\SoftDrink\Aquafina.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Image\Icon\folder.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Image\Icon\Refreshicon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Image\Icon\add-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Image\Icon\Actions-edit-delete-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Image\Icon\edit-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Image\Icon\logo-3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Image\Icon\invisible.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Image\Icon\eye.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Image\Icon\Login-in-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Image\Icon\padlock.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Image\Icon\check-mark.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Image\Icon\check.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Image\Icon\cancel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Image\Icon\id.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Image\Icon\log-format.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Image\Material\BotCafe.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Image\Material\Cafe\coffee-tree-dac-biet.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Image\Material\Cafe\greencoffee_07.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Image\Material\Khac\DaoNgam.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Image\Material\Khac\VaiNgam.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Image\Material\Muc\chanh-day-khong-hat-thumb-2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Image\Material\Syrup\siro-torani-cam-torani-orange-syrup-750ml.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Image\Icon\1200px-Highlands_Coffee_logo.svg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Image\Icon\delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Image\Icon\income.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Image\Icon\exchange.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Image\Icon\Apps-session-logout-icon1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Image\Icon\id-card.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Image\Icon\product.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Image\Icon\coupon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Image\Icon\merged.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Image\Icon\remove.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\unknown.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Image\Icon\question-mark-outline-in-a-circle-hand-drawn-button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Image\Icon\questionmark.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Image\Icon\excel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Image\Icon\pdf.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Image\Icon\research.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="QuanLyBanHang.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

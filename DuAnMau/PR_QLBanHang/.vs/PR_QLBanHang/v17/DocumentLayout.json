@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vuhan\\Desktop\\DuAnMau\\PR_QLBanHang\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38DC40CF-4F1F-405D-9236-59BBA61ECF9E}|BLL\\BLL.csproj|C:\\Users\\vuhan\\Desktop\\DuAnMau\\PR_QLBanHang\\bll\\taikhoanbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38DC40CF-4F1F-405D-9236-59BBA61ECF9E}|BLL\\BLL.csproj|solutionrelative:bll\\taikhoanbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{692186B0-04B3-455F-8424-607EB7BA6D88}|GUI\\GUI.csproj|C:\\Users\\vuhan\\Desktop\\DuAnMau\\PR_QLBanHang\\gui\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{692186B0-04B3-455F-8424-607EB7BA6D88}|GUI\\GUI.csproj|solutionrelative:gui\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA8DEF06-7F8F-4DD0-8693-AAF6E819490E}|DAL\\DAL.csproj|c:\\users\\vuhan\\desktop\\duanmau\\pr_qlbanhang\\dal\\databaseaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA8DEF06-7F8F-4DD0-8693-AAF6E819490E}|DAL\\DAL.csproj|solutionrelative:dal\\databaseaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA8DEF06-7F8F-4DD0-8693-AAF6E819490E}|DAL\\DAL.csproj|C:\\Users\\vuhan\\Desktop\\DuAnMau\\PR_QLBanHang\\dal\\taikhoanaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA8DEF06-7F8F-4DD0-8693-AAF6E819490E}|DAL\\DAL.csproj|solutionrelative:dal\\taikhoanaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2FDA83F-FC1F-4C90-9A65-8903A87B444F}|DTO\\DTO.csproj|C:\\Users\\vuhan\\Desktop\\DuAnMau\\PR_QLBanHang\\dto\\taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2FDA83F-FC1F-4C90-9A65-8903A87B444F}|DTO\\DTO.csproj|solutionrelative:dto\\taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2FDA83F-FC1F-4C90-9A65-8903A87B444F}|DTO\\DTO.csproj|C:\\Users\\vuhan\\Desktop\\DuAnMau\\PR_QLBanHang\\dto\\quyen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2FDA83F-FC1F-4C90-9A65-8903A87B444F}|DTO\\DTO.csproj|solutionrelative:dto\\quyen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{692186B0-04B3-455F-8424-607EB7BA6D88}|GUI\\GUI.csproj|C:\\Users\\vuhan\\Desktop\\DuAnMau\\PR_QLBanHang\\gui\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{692186B0-04B3-455F-8424-607EB7BA6D88}|GUI\\GUI.csproj|solutionrelative:gui\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DangNhap.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\vuhan\\Desktop\\DuAnMau\\PR_QLBanHang\\GUI\\DangNhap.cs",
+              "RelativeDocumentMoniker": "GUI\\DangNhap.cs",
+              "ToolTip": "C:\\Users\\vuhan\\Desktop\\DuAnMau\\PR_QLBanHang\\GUI\\DangNhap.cs [Design]",
+              "RelativeToolTip": "GUI\\DangNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T02:39:25.619Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DangNhap.cs",
+              "DocumentMoniker": "C:\\Users\\vuhan\\Desktop\\DuAnMau\\PR_QLBanHang\\GUI\\DangNhap.cs",
+              "RelativeDocumentMoniker": "GUI\\DangNhap.cs",
+              "ToolTip": "C:\\Users\\vuhan\\Desktop\\DuAnMau\\PR_QLBanHang\\GUI\\DangNhap.cs",
+              "RelativeToolTip": "GUI\\DangNhap.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwB8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T04:15:41.452Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaikhoanBLL.cs",
+              "DocumentMoniker": "C:\\Users\\vuhan\\Desktop\\DuAnMau\\PR_QLBanHang\\BLL\\TaikhoanBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\TaikhoanBLL.cs",
+              "ToolTip": "C:\\Users\\vuhan\\Desktop\\DuAnMau\\PR_QLBanHang\\BLL\\TaikhoanBLL.cs",
+              "RelativeToolTip": "BLL\\TaikhoanBLL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T16:28:24.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaiKhoanAccess.cs",
+              "DocumentMoniker": "C:\\Users\\vuhan\\Desktop\\DuAnMau\\PR_QLBanHang\\DAL\\TaiKhoanAccess.cs",
+              "RelativeDocumentMoniker": "DAL\\TaiKhoanAccess.cs",
+              "ToolTip": "C:\\Users\\vuhan\\Desktop\\DuAnMau\\PR_QLBanHang\\DAL\\TaiKhoanAccess.cs",
+              "RelativeToolTip": "DAL\\TaiKhoanAccess.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T04:30:12.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DatabaseAccess.cs",
+              "DocumentMoniker": "C:\\Users\\vuhan\\Desktop\\DuAnMau\\PR_QLBanHang\\DAL\\DatabaseAccess.cs",
+              "RelativeDocumentMoniker": "DAL\\DatabaseAccess.cs",
+              "ToolTip": "C:\\Users\\vuhan\\Desktop\\DuAnMau\\PR_QLBanHang\\DAL\\DatabaseAccess.cs",
+              "RelativeToolTip": "DAL\\DatabaseAccess.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAA1wCgAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T03:05:18.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Quyen.cs",
+              "DocumentMoniker": "C:\\Users\\vuhan\\Desktop\\DuAnMau\\PR_QLBanHang\\DTO\\Quyen.cs",
+              "RelativeDocumentMoniker": "DTO\\Quyen.cs",
+              "ToolTip": "C:\\Users\\vuhan\\Desktop\\DuAnMau\\PR_QLBanHang\\DTO\\Quyen.cs",
+              "RelativeToolTip": "DTO\\Quyen.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T02:59:37.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TaiKhoan.cs",
+              "DocumentMoniker": "C:\\Users\\vuhan\\Desktop\\DuAnMau\\PR_QLBanHang\\DTO\\TaiKhoan.cs",
+              "RelativeDocumentMoniker": "DTO\\TaiKhoan.cs",
+              "ToolTip": "C:\\Users\\vuhan\\Desktop\\DuAnMau\\PR_QLBanHang\\DTO\\TaiKhoan.cs",
+              "RelativeToolTip": "DTO\\TaiKhoan.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T02:59:23.085Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

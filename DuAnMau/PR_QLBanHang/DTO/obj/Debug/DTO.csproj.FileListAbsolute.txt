@@ -1,0 +1,6 @@
+C:\Users\vuhan\Desktop\DuAnMau\PR_QLBanHang\DTO\bin\Debug\DTO.dll
+C:\Users\vuhan\Desktop\DuAnMau\PR_QLBanHang\DTO\bin\Debug\DTO.pdb
+C:\Users\vuhan\Desktop\DuAnMau\PR_QLBanHang\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\vuhan\Desktop\DuAnMau\PR_QLBanHang\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\vuhan\Desktop\DuAnMau\PR_QLBanHang\DTO\obj\Debug\DTO.dll
+C:\Users\vuhan\Desktop\DuAnMau\PR_QLBanHang\DTO\obj\Debug\DTO.pdb

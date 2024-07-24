@@ -1,45 +1,45 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\vuhan\\Desktop\\DuAnMau\\frm_DangNhap\\",
+  "WorkspaceRootPath": "C:\\Users\\vuhan\\Desktop\\tlm\\FileThuNghiem\\DuAnMau\\frm_DangNhap\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0A855B26-F4CB-41B6-B801-073528167EFE}|GUI_QLBANHANG.csproj|c:\\users\\vuhan\\desktop\\duanmau\\frm_dangnhap\\frm_dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0A855B26-F4CB-41B6-B801-073528167EFE}|GUI_QLBANHANG.csproj|c:\\users\\vuhan\\desktop\\tlm\\filethunghiem\\duanmau\\frm_dangnhap\\frm_dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0A855B26-F4CB-41B6-B801-073528167EFE}|GUI_QLBANHANG.csproj|solutionrelative:frm_dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0A855B26-F4CB-41B6-B801-073528167EFE}|GUI_QLBANHANG.csproj|C:\\Users\\vuhan\\Desktop\\DuAnMau\\frm_DangNhap\\frm_nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{0A855B26-F4CB-41B6-B801-073528167EFE}|GUI_QLBANHANG.csproj|C:\\Users\\vuhan\\Desktop\\tlm\\FileThuNghiem\\DuAnMau\\frm_DangNhap\\frm_nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{0A855B26-F4CB-41B6-B801-073528167EFE}|GUI_QLBANHANG.csproj|solutionrelative:frm_nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0A855B26-F4CB-41B6-B801-073528167EFE}|GUI_QLBANHANG.csproj|C:\\Users\\vuhan\\Desktop\\DuAnMau\\frm_DangNhap\\frm_nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0A855B26-F4CB-41B6-B801-073528167EFE}|GUI_QLBANHANG.csproj|C:\\Users\\vuhan\\Desktop\\tlm\\FileThuNghiem\\DuAnMau\\frm_DangNhap\\frm_nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0A855B26-F4CB-41B6-B801-073528167EFE}|GUI_QLBANHANG.csproj|solutionrelative:frm_nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0A855B26-F4CB-41B6-B801-073528167EFE}|GUI_QLBANHANG.csproj|C:\\Users\\vuhan\\Desktop\\DuAnMau\\frm_DangNhap\\frm_dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{0A855B26-F4CB-41B6-B801-073528167EFE}|GUI_QLBANHANG.csproj|C:\\Users\\vuhan\\Desktop\\tlm\\FileThuNghiem\\DuAnMau\\frm_DangNhap\\frm_dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{0A855B26-F4CB-41B6-B801-073528167EFE}|GUI_QLBANHANG.csproj|solutionrelative:frm_dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0A855B26-F4CB-41B6-B801-073528167EFE}|GUI_QLBANHANG.csproj|C:\\Users\\vuhan\\Desktop\\DuAnMau\\frm_DangNhap\\frm_khach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{0A855B26-F4CB-41B6-B801-073528167EFE}|GUI_QLBANHANG.csproj|C:\\Users\\vuhan\\Desktop\\tlm\\FileThuNghiem\\DuAnMau\\frm_DangNhap\\frm_khach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{0A855B26-F4CB-41B6-B801-073528167EFE}|GUI_QLBANHANG.csproj|solutionrelative:frm_khach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0A855B26-F4CB-41B6-B801-073528167EFE}|GUI_QLBANHANG.csproj|C:\\Users\\vuhan\\Desktop\\DuAnMau\\frm_DangNhap\\properties\\resources.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{0A855B26-F4CB-41B6-B801-073528167EFE}|GUI_QLBANHANG.csproj|C:\\Users\\vuhan\\Desktop\\tlm\\FileThuNghiem\\DuAnMau\\frm_DangNhap\\properties\\resources.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{0A855B26-F4CB-41B6-B801-073528167EFE}|GUI_QLBANHANG.csproj|solutionrelative:properties\\resources.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0A855B26-F4CB-41B6-B801-073528167EFE}|GUI_QLBANHANG.csproj|C:\\Users\\vuhan\\Desktop\\DuAnMau\\frm_DangNhap\\frm_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{0A855B26-F4CB-41B6-B801-073528167EFE}|GUI_QLBANHANG.csproj|C:\\Users\\vuhan\\Desktop\\tlm\\FileThuNghiem\\DuAnMau\\frm_DangNhap\\frm_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{0A855B26-F4CB-41B6-B801-073528167EFE}|GUI_QLBANHANG.csproj|solutionrelative:frm_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0A855B26-F4CB-41B6-B801-073528167EFE}|GUI_QLBANHANG.csproj|C:\\Users\\vuhan\\Desktop\\DuAnMau\\frm_DangNhap\\frm_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0A855B26-F4CB-41B6-B801-073528167EFE}|GUI_QLBANHANG.csproj|C:\\Users\\vuhan\\Desktop\\tlm\\FileThuNghiem\\DuAnMau\\frm_DangNhap\\frm_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0A855B26-F4CB-41B6-B801-073528167EFE}|GUI_QLBANHANG.csproj|solutionrelative:frm_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0A855B26-F4CB-41B6-B801-073528167EFE}|GUI_QLBANHANG.csproj|C:\\Users\\vuhan\\Desktop\\DuAnMau\\frm_DangNhap\\frm_thongtinnv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{0A855B26-F4CB-41B6-B801-073528167EFE}|GUI_QLBANHANG.csproj|C:\\Users\\vuhan\\Desktop\\tlm\\FileThuNghiem\\DuAnMau\\frm_DangNhap\\frm_thongtinnv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{0A855B26-F4CB-41B6-B801-073528167EFE}|GUI_QLBANHANG.csproj|solutionrelative:frm_thongtinnv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0A855B26-F4CB-41B6-B801-073528167EFE}|GUI_QLBANHANG.csproj|C:\\Users\\vuhan\\Desktop\\DuAnMau\\frm_DangNhap\\frm_thongtinnv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0A855B26-F4CB-41B6-B801-073528167EFE}|GUI_QLBANHANG.csproj|C:\\Users\\vuhan\\Desktop\\tlm\\FileThuNghiem\\DuAnMau\\frm_DangNhap\\frm_thongtinnv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0A855B26-F4CB-41B6-B801-073528167EFE}|GUI_QLBANHANG.csproj|solutionrelative:frm_thongtinnv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -68,15 +68,27 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 8,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Resources.resx",
-              "DocumentMoniker": "C:\\Users\\vuhan\\Desktop\\DuAnMau\\frm_DangNhap\\Properties\\Resources.resx",
+              "DocumentMoniker": "C:\\Users\\vuhan\\Desktop\\tlm\\FileThuNghiem\\DuAnMau\\frm_DangNhap\\Properties\\Resources.resx",
               "RelativeDocumentMoniker": "Properties\\Resources.resx",
-              "ToolTip": "C:\\Users\\vuhan\\Desktop\\DuAnMau\\frm_DangNhap\\Properties\\Resources.resx",
+              "ToolTip": "C:\\Users\\vuhan\\Desktop\\tlm\\FileThuNghiem\\DuAnMau\\frm_DangNhap\\Properties\\Resources.resx",
               "RelativeToolTip": "Properties\\Resources.resx",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAH0AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
@@ -86,10 +98,10 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "frm_Khach.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\vuhan\\Desktop\\DuAnMau\\frm_DangNhap\\frm_Khach.cs",
+              "DocumentMoniker": "C:\\Users\\vuhan\\Desktop\\tlm\\FileThuNghiem\\DuAnMau\\frm_DangNhap\\frm_Khach.cs",
               "RelativeDocumentMoniker": "frm_Khach.cs",
               "ToolTip": "C:\\Users\\vuhan\\Desktop\\DuAnMau\\frm_DangNhap\\frm_Khach.cs [Design]",
-              "RelativeToolTip": "frm_Khach.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\DuAnMau\\frm_DangNhap\\frm_Khach.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-01T08:06:09.276Z"
             },
@@ -97,9 +109,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "frm_DangNhap.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\vuhan\\Desktop\\DuAnMau\\frm_DangNhap\\frm_DangNhap.cs",
+              "DocumentMoniker": "C:\\Users\\vuhan\\Desktop\\tlm\\FileThuNghiem\\DuAnMau\\frm_DangNhap\\frm_DangNhap.cs",
               "RelativeDocumentMoniker": "frm_DangNhap.cs",
-              "ToolTip": "C:\\Users\\vuhan\\Desktop\\DuAnMau\\frm_DangNhap\\frm_DangNhap.cs [Design]",
+              "ToolTip": "C:\\Users\\vuhan\\Desktop\\tlm\\FileThuNghiem\\DuAnMau\\frm_DangNhap\\frm_DangNhap.cs [Design]",
               "RelativeToolTip": "frm_DangNhap.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-01T08:05:02.965Z",
@@ -109,9 +121,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "frm_NhanVien.cs",
-              "DocumentMoniker": "C:\\Users\\vuhan\\Desktop\\DuAnMau\\frm_DangNhap\\frm_NhanVien.cs",
+              "DocumentMoniker": "C:\\Users\\vuhan\\Desktop\\tlm\\FileThuNghiem\\DuAnMau\\frm_DangNhap\\frm_NhanVien.cs",
               "RelativeDocumentMoniker": "frm_NhanVien.cs",
-              "ToolTip": "C:\\Users\\vuhan\\Desktop\\DuAnMau\\frm_DangNhap\\frm_NhanVien.cs",
+              "ToolTip": "C:\\Users\\vuhan\\Desktop\\tlm\\FileThuNghiem\\DuAnMau\\frm_DangNhap\\frm_NhanVien.cs",
               "RelativeToolTip": "frm_NhanVien.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -121,10 +133,10 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "frm_NhanVien.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\vuhan\\Desktop\\DuAnMau\\frm_DangNhap\\frm_NhanVien.cs",
+              "DocumentMoniker": "C:\\Users\\vuhan\\Desktop\\tlm\\FileThuNghiem\\DuAnMau\\frm_DangNhap\\frm_NhanVien.cs",
               "RelativeDocumentMoniker": "frm_NhanVien.cs",
               "ToolTip": "C:\\Users\\vuhan\\Desktop\\DuAnMau\\frm_DangNhap\\frm_NhanVien.cs [Design]",
-              "RelativeToolTip": "frm_NhanVien.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\DuAnMau\\frm_DangNhap\\frm_NhanVien.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-01T07:47:36.374Z"
             },
@@ -132,11 +144,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "frm_DangNhap.cs",
-              "DocumentMoniker": "C:\\Users\\vuhan\\Desktop\\DuAnMau\\frm_DangNhap\\frm_DangNhap.cs",
+              "DocumentMoniker": "C:\\Users\\vuhan\\Desktop\\tlm\\FileThuNghiem\\DuAnMau\\frm_DangNhap\\frm_DangNhap.cs",
               "RelativeDocumentMoniker": "frm_DangNhap.cs",
-              "ToolTip": "C:\\Users\\vuhan\\Desktop\\DuAnMau\\frm_DangNhap\\frm_DangNhap.cs",
+              "ToolTip": "C:\\Users\\vuhan\\Desktop\\tlm\\FileThuNghiem\\DuAnMau\\frm_DangNhap\\frm_DangNhap.cs",
               "RelativeToolTip": "frm_DangNhap.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAsAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-30T11:18:36.266Z",
               "EditorCaption": ""
@@ -146,9 +158,9 @@
               "DocumentIndex": 10,
               "Title": "DBConnect.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\DAL_QLBANHANG\\DBConnect.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\DELL\\source\\repos\\DAL_QLBANHANG\\DBConnect.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\DELL\\source\\repos\\DAL_QLBANHANG\\DBConnect.cs",
               "ToolTip": "C:\\Users\\DELL\\source\\repos\\DAL_QLBANHANG\\DBConnect.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\DELL\\source\\repos\\DAL_QLBANHANG\\DBConnect.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\DELL\\source\\repos\\DAL_QLBANHANG\\DBConnect.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-01T14:50:04.997Z"
@@ -158,9 +170,9 @@
               "DocumentIndex": 11,
               "Title": "BUL_NHANVIEN.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\BUL_QLBANHANG\\BUL_NHANVIEN.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\DELL\\source\\repos\\BUL_QLBANHANG\\BUL_NHANVIEN.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\DELL\\source\\repos\\BUL_QLBANHANG\\BUL_NHANVIEN.cs",
               "ToolTip": "C:\\Users\\DELL\\source\\repos\\BUL_QLBANHANG\\BUL_NHANVIEN.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\DELL\\source\\repos\\BUL_QLBANHANG\\BUL_NHANVIEN.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\DELL\\source\\repos\\BUL_QLBANHANG\\BUL_NHANVIEN.cs",
               "ViewState": "AQIAACAAAAAAAAAAAIA+wC4AAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-01T07:12:30.056Z"
@@ -170,9 +182,9 @@
               "DocumentIndex": 12,
               "Title": "DAL_NHANVIEN.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\DAL_QLBANHANG\\DAL_NHANVIEN.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\DELL\\source\\repos\\DAL_QLBANHANG\\DAL_NHANVIEN.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\DELL\\source\\repos\\DAL_QLBANHANG\\DAL_NHANVIEN.cs",
               "ToolTip": "C:\\Users\\DELL\\source\\repos\\DAL_QLBANHANG\\DAL_NHANVIEN.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\DELL\\source\\repos\\DAL_QLBANHANG\\DAL_NHANVIEN.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\DELL\\source\\repos\\DAL_QLBANHANG\\DAL_NHANVIEN.cs",
               "ViewState": "AQIAADQAAAAAAAAAAAAAAEYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-01T07:07:02.143Z"
@@ -181,9 +193,9 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "frm_Main.cs",
-              "DocumentMoniker": "C:\\Users\\vuhan\\Desktop\\DuAnMau\\frm_DangNhap\\frm_Main.cs",
+              "DocumentMoniker": "C:\\Users\\vuhan\\Desktop\\tlm\\FileThuNghiem\\DuAnMau\\frm_DangNhap\\frm_Main.cs",
               "RelativeDocumentMoniker": "frm_Main.cs",
-              "ToolTip": "C:\\Users\\vuhan\\Desktop\\DuAnMau\\frm_DangNhap\\frm_Main.cs",
+              "ToolTip": "C:\\Users\\vuhan\\Desktop\\tlm\\FileThuNghiem\\DuAnMau\\frm_DangNhap\\frm_Main.cs",
               "RelativeToolTip": "frm_Main.cs",
               "ViewState": "AQIAAAwAAAAAAAAAAAAmwEsAAABWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -193,10 +205,10 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "frm_Main.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\vuhan\\Desktop\\DuAnMau\\frm_DangNhap\\frm_Main.cs",
+              "DocumentMoniker": "C:\\Users\\vuhan\\Desktop\\tlm\\FileThuNghiem\\DuAnMau\\frm_DangNhap\\frm_Main.cs",
               "RelativeDocumentMoniker": "frm_Main.cs",
               "ToolTip": "C:\\Users\\DELL\\source\\repos\\frm_DangNhap\\frm_Main.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\..\\DELL\\source\\repos\\frm_DangNhap\\frm_Main.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\DELL\\source\\repos\\frm_DangNhap\\frm_Main.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-01T06:53:01.601Z"
             },
@@ -204,9 +216,9 @@
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "frm_ThongTinNV.cs",
-              "DocumentMoniker": "C:\\Users\\vuhan\\Desktop\\DuAnMau\\frm_DangNhap\\frm_ThongTinNV.cs",
+              "DocumentMoniker": "C:\\Users\\vuhan\\Desktop\\tlm\\FileThuNghiem\\DuAnMau\\frm_DangNhap\\frm_ThongTinNV.cs",
               "RelativeDocumentMoniker": "frm_ThongTinNV.cs",
-              "ToolTip": "C:\\Users\\vuhan\\Desktop\\DuAnMau\\frm_DangNhap\\frm_ThongTinNV.cs",
+              "ToolTip": "C:\\Users\\vuhan\\Desktop\\tlm\\FileThuNghiem\\DuAnMau\\frm_DangNhap\\frm_ThongTinNV.cs",
               "RelativeToolTip": "frm_ThongTinNV.cs",
               "ViewState": "AQIAAAwAAAAAAAAAAAAAAEMAAABEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -216,10 +228,10 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "frm_ThongTinNV.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\vuhan\\Desktop\\DuAnMau\\frm_DangNhap\\frm_ThongTinNV.cs",
+              "DocumentMoniker": "C:\\Users\\vuhan\\Desktop\\tlm\\FileThuNghiem\\DuAnMau\\frm_DangNhap\\frm_ThongTinNV.cs",
               "RelativeDocumentMoniker": "frm_ThongTinNV.cs",
               "ToolTip": "C:\\Users\\DELL\\source\\repos\\frm_DangNhap\\frm_ThongTinNV.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\..\\DELL\\source\\repos\\frm_DangNhap\\frm_ThongTinNV.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\DELL\\source\\repos\\frm_DangNhap\\frm_ThongTinNV.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-01T06:27:49.645Z"
             },
@@ -228,9 +240,9 @@
               "DocumentIndex": 13,
               "Title": "DTO_KHACHHANG.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\DTO_QLBANHANG\\DTO_KHACHHANG.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\DELL\\source\\repos\\DTO_QLBANHANG\\DTO_KHACHHANG.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\DELL\\source\\repos\\DTO_QLBANHANG\\DTO_KHACHHANG.cs",
               "ToolTip": "C:\\Users\\DELL\\source\\repos\\DTO_QLBANHANG\\DTO_KHACHHANG.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\DELL\\source\\repos\\DTO_QLBANHANG\\DTO_KHACHHANG.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\DELL\\source\\repos\\DTO_QLBANHANG\\DTO_KHACHHANG.cs",
               "ViewState": "AQIAADIAAAAAAAAAAAAAAC8AAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-30T14:23:58.051Z"
@@ -240,9 +252,9 @@
               "DocumentIndex": 14,
               "Title": "DTO_HANG.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\DTO_QLBANHANG\\DTO_HANG.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\DELL\\source\\repos\\DTO_QLBANHANG\\DTO_HANG.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\DELL\\source\\repos\\DTO_QLBANHANG\\DTO_HANG.cs",
               "ToolTip": "C:\\Users\\DELL\\source\\repos\\DTO_QLBANHANG\\DTO_HANG.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\DELL\\source\\repos\\DTO_QLBANHANG\\DTO_HANG.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\DELL\\source\\repos\\DTO_QLBANHANG\\DTO_HANG.cs",
               "ViewState": "AQIAADUAAAAAAAAAAAAswEAAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-30T14:19:38.893Z"
@@ -252,9 +264,9 @@
               "DocumentIndex": 15,
               "Title": "DTO_NHANVIEN.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\DTO_QLBANHANG\\DTO_NHANVIEN.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\DELL\\source\\repos\\DTO_QLBANHANG\\DTO_NHANVIEN.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\DELL\\source\\repos\\DTO_QLBANHANG\\DTO_NHANVIEN.cs",
               "ToolTip": "C:\\Users\\DELL\\source\\repos\\DTO_QLBANHANG\\DTO_NHANVIEN.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\DELL\\source\\repos\\DTO_QLBANHANG\\DTO_NHANVIEN.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\DELL\\source\\repos\\DTO_QLBANHANG\\DTO_NHANVIEN.cs",
               "ViewState": "AQIAACAAAAAAAAAAAAAgwDAAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-30T14:06:16.128Z"

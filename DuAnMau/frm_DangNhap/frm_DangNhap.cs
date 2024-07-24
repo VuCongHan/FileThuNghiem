@@ -13,7 +13,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace frm_DangNhap
-{
+{// fdjshdsjkdklsdksdlk
     public partial class frm_DangNhap : Form
 
     {

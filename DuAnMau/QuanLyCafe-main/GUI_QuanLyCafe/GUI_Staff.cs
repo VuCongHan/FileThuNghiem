@@ -533,7 +533,7 @@ namespace GUI_QuanLyCafe
                 MessageBox.Show("Xóa nhân viên thất bại", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
-
+        //hân chóa
         private void ListStaff_dgv_CellClick(object sender, DataGridViewCellEventArgs e)
         {
             try

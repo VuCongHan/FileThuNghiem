@@ -23,7 +23,7 @@ namespace BLL
             }
 
             string info = tkaccess.CheckLogic(taiKhoan);
-            return info;
+            return info; // trí què
         }
     }
 }

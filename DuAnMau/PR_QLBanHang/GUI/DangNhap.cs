@@ -20,7 +20,7 @@ namespace GUI
         {
             InitializeComponent();
         }
-
+        // hfudisgdfkjs
         private void btnDangNhap_Click(object sender, EventArgs e)
         {
             taikhoan.sTaiKhoan = txtTK.Text;
